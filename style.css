@@ -4,7 +4,7 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-#icon{
+.icon{
     height: 104px;
     width: 104px;
 }
