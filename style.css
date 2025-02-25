@@ -1,0 +1,125 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#icon{
+    height: 104px;
+    width: 104px;
+}
+
+#navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#rodape{
+    background-color: rgb(226, 185, 0);
+    padding: 20px;
+    text-align: center;
+    margin: 0;
+}
+
+main{
+    background-color: rgb(155, 0, 0);
+}
+
+#ironman{
+    width: 900;
+    justify-content: first baseline;
+}
+
+#sobre{
+    display: flex;
+    justify-content: flex-start;
+}
+
+#txt_sobre{
+    width: 1100px;
+    padding: 0px;
+    text-align: center;
+}
+
+#txt_sobre h2{
+    font-size: 40px;
+    color: rgb(226, 185, 0);
+}
+
+#txt_sobre p{
+    margin: 20px;
+    padding: 20px;
+    font-size: 20px;
+    text-align: justify;
+    color: white;
+}
+
+#aliados{
+    background-color: rgb(226, 185, 0);
+  
+    padding: 25px;
+    text-align: center;
+}
+
+#titulo_aliados{
+    font-size: 55px;
+    color: rgb(155, 0, 0);
+}
+
+#personagens{
+    display: flex;
+    justify-content: space-around;
+}
+
+.herois{
+    height: 300px;
+    width: 400px;
+}
+
+
+
+.txt_aliados {
+    margin: 10px;
+    padding: 20px;
+    font-size: 15px;
+    text-align: justify;
+}
+
+#viloes{
+    background-color: rgb(255, 255, 255);
+  
+    padding: 25px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#titulo_viloes{
+    font-size: 55px;
+    color: rgb(226, 185, 0);
+}
+
+#personagens_maus{
+    display: flex;
+    justify-content: space-around;
+}
+
+.vilania{
+    height: 300px;
+    width: 400px;
+
+}
+
+
+
+.txt_viloes {
+    margin: 10px;
+    padding: 20px;
+    font-size: 15px;
+    text-align: justify;
+}
+
+.subtitulo{
+    font-size: 35px;
+}
+
